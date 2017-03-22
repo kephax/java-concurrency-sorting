@@ -1,0 +1,64 @@
+Script running with 50000 numbers
+=== Single thread ===
+Execution #1
+Time to execute was: 5312 ms
+Execution #2
+Time to execute was: 4315 ms
+Execution #3
+Time to execute was: 1756 ms
+Execution #4
+Time to execute was: 1732 ms
+Execution #5
+Time to execute was: 1715 ms
+Execution #6
+Time to execute was: 1740 ms
+Execution #7
+Time to execute was: 1723 ms
+Execution #8
+Time to execute was: 1680 ms
+Execution #9
+Time to execute was: 1714 ms
+Execution #10
+Time to execute was: 1713 ms
+=== Double thread ===
+Execution #1
+Time to execute was: 601 ms
+Execution #2
+Time to execute was: 586 ms
+Execution #3
+Time to execute was: 597 ms
+Execution #4
+Time to execute was: 652 ms
+Execution #5
+Time to execute was: 559 ms
+Execution #6
+Time to execute was: 587 ms
+Execution #7
+Time to execute was: 566 ms
+Execution #8
+Time to execute was: 638 ms
+Execution #9
+Time to execute was: 640 ms
+Execution #10
+Time to execute was: 570 ms
+=== Multi thread ===
+Execution #1
+Time to execute was: 227 ms
+Execution #2
+Time to execute was: 214 ms
+Execution #3
+Time to execute was: 221 ms
+Execution #4
+Time to execute was: 214 ms
+Execution #5
+Time to execute was: 144 ms
+Execution #6
+Time to execute was: 211 ms
+Execution #7
+Time to execute was: 210 ms
+Execution #8
+Time to execute was: 227 ms
+Execution #9
+Time to execute was: 204 ms
+Execution #10
+Time to execute was: 209 ms
